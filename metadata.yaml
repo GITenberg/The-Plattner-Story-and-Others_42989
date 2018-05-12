@@ -1,0 +1,38 @@
+_repo: The-Plattner-Story-and-Others_42989
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42989-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: This collection of seventeen short stories, originally published in 1897,
+  offers the reader classic H. G. Wells--ranging in theme from the multi-dimensions
+  of time and space in "The Plattner Story," to classic science fiction in "The Apple"
+  and "Purple Pileus" to the betrayal of love in "The Jilting of Jane."
+gutenberg_issued: '2013-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Science fiction'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+- !lcc 'PR'
+tableOfContents: The Plattner story -- The Argonauts of the air -- The story of the
+  late Mr. Elvesham -- In the abyss -- The apple -- Under the knife -- The sea-raiders
+  -- Pollock and the Porroh man -- The red room -- The cone -- The purple pileus --
+  The jilting of Jane -- In the modern vein -- A catastrophe -- The lost inheritance
+  -- The sad story of a dramatic critic -- A slip under the microscope.
+title: The Plattner Story, and Others
+url: http://www.gutenberg.org/ebooks/42989
